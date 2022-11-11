@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chihong-j. I am from Information Management, NTU.
+- 👋 Hi, I’m Joey. I am from Information Management, NTU.
 - 👀 I’m interested in data science, web programming.
 
 
