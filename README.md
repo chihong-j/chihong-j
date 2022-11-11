@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chihong-j. I am from NTU Business administration, and double major in Information Management.
+- 👋 Hi, I’m @chihong-j. I am from NTU Information Management.
 - 👀 I’m interested in data science, web programming.
 
 
